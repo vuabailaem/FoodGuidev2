@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_conca"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_conchim"
+        android:orderInCategory="100"
+        android:title="@string/action_conchim"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_conlon"
+        android:orderInCategory="100"
+        android:title="@string/action_conlon"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_conbc"
+        android:orderInCategory="100"
+        android:title="@string/action_conbc"
+        app:showAsAction="never" />
+
+</menu>

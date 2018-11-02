@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FoodGuide v2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Món ngon cùng Food Guide</string>
+    <string name="nav_header_subtitle">Liên hệ Tuấn Mập</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_conca">Con cá</string>
+    <string name="action_conchim">Con Chim</string>
+    <string name="action_conlon">Con lợn</string>
+    <string name="action_conbc">Con chim bồ câu</string>
+    <string name="Hello">Địt chị mấy thằng ngu</string>
+</resources>
