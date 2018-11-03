@@ -3,23 +3,29 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
         android:id="@+id/action_settings"
-        android:orderInCategory="100"
+        android:orderInCategory="1"
         android:title="@string/action_conca"
         app:showAsAction="never" />
     <item
         android:id="@+id/action_conchim"
-        android:orderInCategory="100"
+        android:orderInCategory="2"
         android:title="@string/action_conchim"
         app:showAsAction="never" />
     <item
         android:id="@+id/action_conlon"
-        android:orderInCategory="100"
+        android:orderInCategory="3"
         android:title="@string/action_conlon"
         app:showAsAction="never" />
     <item
         android:id="@+id/action_conbc"
-        android:orderInCategory="100"
+        android:orderInCategory="4"
         android:title="@string/action_conbc"
         app:showAsAction="never" />
+    <item
+
+        android:title="@string/search"
+        android:id="@+id/action_search"
+        android:icon="@drawable/menu_search"
+        app:showAsAction="always" />
 
 </menu>
